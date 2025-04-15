@@ -33,9 +33,3 @@ Bu mobil uygulama, küçük ve orta ölçekli çiftçilerin veya tarıma yeni ba
 ## 📷 Kullanıcı Senaryosu
 
 > Ali, İzmir’de yaşayan bir kullanıcı olarak uygulamaya "domates" ektiğini girer ve konum paylaşımına izin verir. Tarım Asistanım, bu bilgilerle ona özel bir sulama/gübreleme takvimi sunar. Uygulama aynı zamanda bölgeye özgü hastalık riskleri hakkında uyarılar verir.
-
-## 🔧 Kurulum
-
-```bash
-git clone https://github.com/kullanici-adi/tarim-asistanim.git
-cd tarim-asistanim
